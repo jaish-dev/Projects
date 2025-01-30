@@ -1,7 +1,3 @@
-Here's a well-structured **README.md** for your project:  
-
----
-
 # **🌿 Plant Disease Detection System for Sustainable Agriculture**  
 
 ## **🔍 Overview**  
@@ -99,7 +95,3 @@ Visit `http://127.0.0.1:5000` to test the application.
 
 ## **🤝 Contributing**  
 Feel free to fork the repo, open issues, or submit pull requests. Your contributions are welcome! 😊  
-
----
-
-Let me know if you want any modifications! 🚀
