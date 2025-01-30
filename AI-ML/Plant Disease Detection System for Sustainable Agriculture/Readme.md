@@ -46,15 +46,15 @@ The **Plant Disease Detection System** is a machine learning-based solution desi
 ## **📂 Project Structure**  
 ```
 📦 Plant_Disease_Detection_System
- ┣ 📂 Dataset/                  # Contains plant disease images
- ┣ 📜 Diseases.png              # Reference image for different diseases
- ┣ 📜 main.py                   # Main script for running inference
- ┣ 📜 Readme.md                 # Project documentation
- ┣ 📜 requirements.txt           # Dependencies for running the project
- ┣ 📜 Test_plant_disease.ipynb   # Notebook for testing the model
- ┣ 📜 Train_plant_disease.ipynb  # Notebook for training the model
+ ┣ 📂 Dataset/                           # Contains plant disease images
+ ┣ 📜 Diseases.png                       # Reference image for different diseases
+ ┣ 📜 main.py                            # Main script for running inference
+ ┣ 📜 Readme.md                          # Project documentation
+ ┣ 📜 requirements.txt                   # Dependencies for running the project
+ ┣ 📜 Test_plant_disease.ipynb           # Notebook for testing the model
+ ┣ 📜 Train_plant_disease.ipynb          # Notebook for training the model
  ┣ 📜 trained_plant_disease_model.keras  # Pre-trained Keras model
- ┣ 📜 training_hist.json         # Training history logs
+ ┣ 📜 training_hist.json                 # Training history logs
 ```
 
 ## **📌 Installation & Setup**  
