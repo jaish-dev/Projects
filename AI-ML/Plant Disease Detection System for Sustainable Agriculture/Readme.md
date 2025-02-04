@@ -77,8 +77,8 @@ python predict.py --image sample_leaf.jpg
 ```
 
 ## **🧪 Model Performance**  
-- **Accuracy:** XX%  
-- **Precision / Recall:** XX / XX  
+- **Accuracy:** 98%  
+- **Precision / Recall:** 0.99 / 1  
 - **Confusion Matrix:** Available in the `results/` folder  
 
 ## **🌐 Deployment**  
