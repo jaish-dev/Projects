@@ -1,4 +1,4 @@
-# 🧠 Jairaj Singh's Project Portfolio
+# 🧠 Project Portfolio
 
 Welcome to my **GitHub Project Portfolio** — a collection of my software development projects built using various languages and technologies.
 
