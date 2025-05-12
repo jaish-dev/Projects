@@ -26,8 +26,8 @@ project/ ├── AI/ML/ ├── Java/ ├── JavaScript/ ├── TypeSc
 
 **Jairaj Singh**  
 📧 jairaj23976@gmail.com.com  
-🌐 [github.com/your-username](https://github.com/jaish-dev)  
-💼 [linkedin.com/in/your-profile](https://linkedin.com/in/jairaj-singh-/)
+🌐 [github](https://github.com/jaish-dev)  
+💼 [linkedin](https://linkedin.com/in/jairaj-singh-/)
 
 ---
 
